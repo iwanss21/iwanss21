@@ -1,17 +1,25 @@
-[![MasterHead](https://gifdb.com/images/file/anime-rainy-scene-l79hej9j4iihcwqv.gif)](https://iwanss21.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://iwanss21.io)
 <h1 align="center">Hi 👋, I'm Ivan Hristoforov</h1>
 <h3 align="center">A passionate frontend developer from Varna, Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nifct0wymv44i3pxa69kzsdb9afm4c6551mr4txy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+<h1 align="center">Hey, I'm Ivan Hristoforov 👨‍💻</h1>
+<h3 align="center">A passionate frontend developer from Varna, Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwanss21&label=Profile%20views&color=0e75b6&style=flat" alt="iwanss21" /> </p>
 
+- 🔭 I’m currently working on my own websites **Witcher 3**
+
 - 🌱 I’m currently learning **Javascript, HTML and CSS/SCSS**
+
+- 👯 I'm studying at SoftUni **Javascript**
 
 - 📫 How to reach me **iwanss1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ivan-danielov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ivan-danielov" height="30" width="40" /></a>
+<a href="https://instagram.com/ivanthedweebg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanthedweebg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwanss21&show_icons=true&locale=en" alt="iwanss21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwanss21&" alt="iwanss21" /></p>
+
